@@ -1,5 +1,7 @@
 # Radical Reading Club
+
 ## Radical Students' Union @ UMW
+
 ### _Radical simply means to go to the root. -Angela Y. Davis_
 
 Welcome to Radical Reading, an 8 week book club featuring different revolutionaries, their theories and texts, alongside weekly discussion meetings on Zoom. Below we have links for each reading, and a google form for you to submit any questions you want to discuss. 
