@@ -13,7 +13,7 @@ Don’t feel pressured to join every meeting, as this is all just for fun!
 * * *
 
 Week 1, June 1st: From Allies To Comrades
-: Text: "From Allies to Comrades" by Jodi Dean
+: Text: ["From Allies to Comrades"](./texts/Dean%20-%20Comrade%20-%20Allies%20to%20Comrades.pdf) by Jodi Dean
 : From _Comrade: An Essay On Political Belonging_ (2019)
 : [Submit Questions Here](https://forms.gle/LEUPTWWSp8eEodDG8)
 
@@ -42,7 +42,7 @@ Week 5, June 29th: Abolitionist Futures
 
 
 Week 6, July 6th: The New Imperialism
-: Text: "Introduction", _Super Imperialism_ by Michael Hudson (1972)
+: Text: ["Introduction", _Super Imperialism_](./texts/Hudson%20-%20Super%20Imperialism%20-%20Introduction.pdf) by Michael Hudson (1972)
 : [Submit Questions Here](https://forms.gle/ybDctj2EgMeTTVgJ6)
 
 
