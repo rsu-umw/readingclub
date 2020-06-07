@@ -19,7 +19,7 @@ Week 1, June 1st: From Allies To Comrades
 
 
 Week 2, June 8th: Housing and Tenant Organizing
-: Text: Selections from "The Housing Issue" ed. Natalie Hrizi
+: Text: [Selections from "The Housing Issue"](./texts/Breaking The Chains (Selections).pdf) ed. Natalie Hrizi
 : From _Breaking The Chains: A Socialist Perspective on Women's Liberation_ (Fall 2018)
 : [Submit Questions Here](https://forms.gle/KiFazUqMFrhmGxfz9)
 
