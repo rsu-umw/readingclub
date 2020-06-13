@@ -23,34 +23,33 @@ Week 2, June 8th: Housing and Tenant Organizing
 : From _Breaking The Chains: A Socialist Perspective on Women's Liberation_ (Fall 2018)
 : [Submit Questions Here](https://forms.gle/KiFazUqMFrhmGxfz9)
 
+_In response to the global uprising, from here we have transitioned to **The End of Policing** by Alex Vitale._
 
-Week 3, June 15th: Revolutionary Strategy and Mass Line
-: Text: ["The Mass Line"](https://www.marxists.org/reference/archive/mao/works/red-book/ch11.htm) by Mao Zedong
-: From _Quotations From Mao Zedong_ (1966)
+Week 3, June 15th: The Limits of Police Reform
+: [_The End of Policing_, Chapter 1](./texts/eop/Chapter 1 - Alex S. Vitale - The End of Policing-Verso (2017).pdf) 
 : [Submit Questions Here](https://forms.gle/KiFazUqMFrhmGxfz9)
 
 
-Week 4, June 22nd: Intersectionality and Liberation
-: Text: "Women and Capitalism: Dialectics of Oppression and Liberation" by Angela Y. Davis
-: From _The Angela Y. Davis Reader_ (1998)
+Week 4, June 22nd: The Police Are Not Here To Protect You
+: [_The End of Policing_, Chapter 2](./texts/eop/Chapter 2 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
 : [Submit Questions Here](https://forms.gle/zSwquKPmFkA5qWuR7)
 
 
-Week 5, June 29th: Abolitionist Futures
-: Text: Selections from _The End of Policing_ by Alex Vitale
+Week 5, June 29th: The School-to-Prison Pipeline
+: [_The End of Policing_, Chapter 3](./texts/eop/Chapter 3 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
 : [Submit Questions Here](https://forms.gle/jAPjtiAT2C7rPu6C9)
 
 
-Week 6, July 6th: The New Imperialism
-: Text: ["Introduction", _Super Imperialism_](./texts/Hudson%20-%20Super%20Imperialism%20-%20Introduction.pdf) by Michael Hudson (1972)
+Week 6, July 6th: "We Called for Help, and They Killed My Son"
+: [_The End of Policing_, Chapter 4](./texts/eop/Chapter 4 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
 : [Submit Questions Here](https://forms.gle/ybDctj2EgMeTTVgJ6)
 
 
-Week 7, July 13th: Revolutionary Consciousness
-: Text: Selections from _Malcolm X Speaks: Selected Speeches and Statements_ (1965)
+Week 7, July 13th: Criminalizing Homelessness
+: [_The End of Policing_, Chapter 5](./texts/eop/Chapter 5 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
 : [Submit Questions Here](https://forms.gle/vTa2JPaGUf6eXVAb9)
 
 
-Week 8, July 20th: Back to Basics
-: Text: _The Communist Manifesto_ by Karl Marx and Friedrich Engels (1848)
+Week 8, July 20th: The Failures of Policing Sex Work
+: [_The End of Policing_, Chapter 6](./texts/eop/Chapter 6 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
 : [Submit Questions Here](https://forms.gle/jWzRNLoiozimLsQR6)
