@@ -26,30 +26,43 @@ Week 2, June 8th: Housing and Tenant Organizing
 _In response to the global uprising, from here we have transitioned to **The End of Policing** by Alex Vitale._
 
 Week 3, June 15th: The Limits of Police Reform
-: [_The End of Policing_, Chapter 1](./texts/eop/Chapter 1 - Alex S. Vitale - The End of Policing-Verso (2017).pdf) 
+: [_The End of Policing_, Chapter 1](./texts/eop/eop1.pdf) 
 : [Submit Questions Here](https://forms.gle/KiFazUqMFrhmGxfz9)
 
 
 Week 4, June 22nd: The Police Are Not Here To Protect You
-: [_The End of Policing_, Chapter 2](./texts/eop/Chapter 2 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
+: [_The End of Policing_, Chapter 2](./texts/eop/eop2.pdf)
 : [Submit Questions Here](https://forms.gle/zSwquKPmFkA5qWuR7)
 
 
 Week 5, June 29th: The School-to-Prison Pipeline
-: [_The End of Policing_, Chapter 3](./texts/eop/Chapter 3 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
+: [_The End of Policing_, Chapter 3](./texts/eop/eop3.pdf)
 : [Submit Questions Here](https://forms.gle/jAPjtiAT2C7rPu6C9)
 
 
 Week 6, July 6th: "We Called for Help, and They Killed My Son"
-: [_The End of Policing_, Chapter 4](./texts/eop/Chapter 4 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
+: [_The End of Policing_, Chapter 4](./texts/eop/eop4.pdf)
 : [Submit Questions Here](https://forms.gle/ybDctj2EgMeTTVgJ6)
 
 
 Week 7, July 13th: Criminalizing Homelessness
-: [_The End of Policing_, Chapter 5](./texts/eop/Chapter 5 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
+: [_The End of Policing_, Chapter 5](./texts/eop/eop5.pdf)
 : [Submit Questions Here](https://forms.gle/vTa2JPaGUf6eXVAb9)
 
 
 Week 8, July 20th: The Failures of Policing Sex Work
-: [_The End of Policing_, Chapter 6](./texts/eop/Chapter 6 - Alex S. Vitale - The End of Policing-Verso (2017).pdf)
+: [_The End of Policing_, Chapter 6](./texts/eop/eop6.pdf)
 : [Submit Questions Here](https://forms.gle/jWzRNLoiozimLsQR6)
+
+Week 9, July 27th: The War on Drugs
+: [_The End of Policing_, Chapter 7](./texts/eop/eop7.pdf)
+
+Week 10, August 3rd: Gang Suppression
+: [_The End of Policing_, Chapter 8](./texts/eop/eop8.pdf)
+
+Week 11, August 10th: Border Policing
+: [_The End of Policing_, Chapter 9](./texts/eop/eop9.pdf)
+
+Week 12, August 17th: Political Policing & Conclusion
+: [_The End of Policing_, Chapter 10](./texts/eop/eop10.pdf)
+: [_The End of Policing_, Conclusion](./texts/eop/eopC.pdf)
