@@ -66,3 +66,4 @@ Week 11, August 10th: Border Policing
 Week 12, August 17th: Political Policing & Conclusion
 : [_The End of Policing_, Chapter 10](./texts/eop/eop10.pdf)
 : [_The End of Policing_, Conclusion](./texts/eop/eopC.pdf)
+: Black August Bonus: ["The Social Function of The Prisons in The United States"](./texts/social-function-of-prisons.pdf) (Audio pending...)
