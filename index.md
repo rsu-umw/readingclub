@@ -69,4 +69,4 @@ Week 12, August 17th: Political Policing & Conclusion
 
 Black August Bonus
 : ["The Social Function of The Prisons in The United States"](./texts/social-function-of-prisons.pdf)
-: (Audio pending...)
+: [Audiobook (~20m)](https://www.youtube.com/playlist?list=PL1D7e7FaBkAjWGwRwwenAkBcsdh06_gfD)
